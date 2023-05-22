@@ -1,6 +1,6 @@
 albumentations==0.4.3
 einops==0.3.0
-huggingface-hub==0.8.1
+huggingface-hub==0.13.4
 imageio-ffmpeg==0.4.2
 imageio==2.9.0
 kornia==0.6.0
