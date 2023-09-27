@@ -8,3 +8,4 @@ torch==1.12.1
 torchvision
 realesrgan==0.2.5.0
 -e .
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
