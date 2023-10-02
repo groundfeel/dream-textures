@@ -7,7 +7,7 @@ kornia==0.6.0
 # pip will resolve the version which matches torch
 numpy
 omegaconf==2.1.1
-opencv-python==4.6.0.66
+opencv-python==4.8.1.78.66
 pillow==9.2.0
 pip>=22
 pudb==2019.2
