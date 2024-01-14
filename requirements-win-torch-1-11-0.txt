@@ -12,7 +12,7 @@ pillow==9.2.0
 pip>=22
 pudb==2019.2
 pytorch-lightning==1.4.2
-streamlit==1.12.0
+streamlit==1.30.0
 # "CompVis/taming-transformers" doesn't work
 # ldm\models\autoencoder.py", line 6, in <module>
 #    from taming.modules.vqvae.quantize import VectorQuantizer2 as VectorQuantizer
