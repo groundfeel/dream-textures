@@ -8,7 +8,7 @@ kornia==0.6.0
 numpy
 omegaconf==2.1.1
 opencv-python==4.6.0.66
-pillow==9.2.0
+pillow==10.2.0
 pip>=22
 pudb==2019.2
 pytorch-lightning==1.4.2
